@@ -1,5 +1,5 @@
 {
-  "version": "2.3",
-  "url": "https://github.com/juneannex/otp-live/releases/download/v2.3/Setup_OTP_LIVE.exe",
-  "notes": "Version 2.3 - general stability improvements."
+  "version": "2.4",
+  "url": "https://github.com/juneannex/otp-live/releases/download/v2.4/Setup_OTP_LIVE_v.2.4.exe",
+  "notes": "Version 2.4 - Manually input room id for RC."
 }
