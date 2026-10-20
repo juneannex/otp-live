@@ -1,0 +1,5 @@
+{
+  "version": "2.3",
+  "url": "https://github.com/juneannex/otp-live/releases/download/v2.2/Setup_OTP_LIVE.exe",
+  "notes": "Version 2.2 - general stability improvements."
+}
